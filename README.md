@@ -2,100 +2,19 @@
 
 > A curated and organized collection of resources related to **Cpp-or-C**.
 
+**Humayun Shariar Himu**  
+A Passionated Psychologist & Tech Lover!  
+Based in Bangladesh  
+[GitHub Profile](https://github.com/HumayunShariarHimu)
+
+# Cpp-or-C
+
+> A curated and organized collection of resources related to **Cpp-or-C**.
+
 **Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # C++ or C
 > Master C++ (or C) programming: data structures, algorithms, system design, and performance optimization. Includes examples and best practices for all levels.
-
-# Contact With Me:
-
-<div align="left">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="youtube logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="instagram logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitch logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Proton%20Mail&logo=protonmail&label=&color=7341FF&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="proton mail logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="linkedin logo"  />
-  </a>
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="27" alt="twitter logo"  />
-  </a>
-</div>
-
-- [Awesome C++  ](#awesome-c--)
-	- [Standard Libraries](#standard-libraries)
-	- [Frameworks](#frameworks)
-	- [Artificial Intelligence](#artificial-intelligence)
-	- [Asynchronous Event Loop](#asynchronous-event-loop)
-	- [Audio](#audio)
-	- [Biology](#biology)
-	- [BitTorrent](#bittorrent)
-	- [Chemistry](#chemistry)
-	- [CLI](#cli)
-	- [Compression](#compression)
-	- [Concurrency](#concurrency)
-	- [Configuration](#configuration)
-	- [Containers](#containers)
-	- [Cryptography](#cryptography)
-	- [CSV](#csv)
-	- [Database](#database)
-	- [Data visualization](#data-visualization)
-	- [Debug](#debug)
-	- [Documentation](#documentation)
-	- [DSP](#dsp)
-	- [Font](#font)
-	- [Game Engine](#game-engine)
-	- [Graph](#graph)
-	- [GUI](#gui)
-	- [Graphics](#graphics)
-	- [Image Processing](#image-processing)
-	- [Internationalization](#internationalization)
-	- [Inter-process communication](#inter-process-communication)
-	- [JSON](#json)
-	- [Logging](#logging)
-	- [Machine Learning](#machine-learning)
-	- [Math](#math)
-	- [Memory Allocation](#memory-allocation)
-	- [Multimedia](#multimedia)
-	- [Networking](#networking)
-	- [Office Open XML](#office-open-xml)
-	- [PDF](#pdf)
-	- [Physics](#physics)
-	- [Reflection](#reflection)
-	- [Regular Expression](#regular-expression)
-	- [Robotics](#robotics)
-	- [Scientific Computing](#scientific-computing)
-	- [Scripting](#scripting)
-	- [Serialization](#serialization)
-	- [Serial Port](#serial-port)
-	- [Sorting](#sorting)
-	- [Video](#video)
-	- [Virtual Machines](#virtual-machines)
-	- [Web Application Framework](#web-application-framework)
-	- [XML](#xml)
-	- [Yaml](#yaml)
-	- [Miscellaneous](#miscellaneous)
-- [Software](#software)
-	- [Compiler](#compiler)
-	- [Online Compiler](#online-compiler)
-	- [Debugger](#debugger)
-	- [Integrated Development Environment](#integrated-development-environment)
-	- [Build Systems](#build-systems)
-	- [Static Code Analysis](#static-code-analysis)
-	- [Coding Style Tools](#coding-style-tools)
-- [Resources](#resources)
-	- [API Design](#api-design)
-	- [Articles](#articles)
-	- [Books](#books)
-	- [Coding Standards](#coding-standards)
-	- [Coding Style](#coding-style)
-	- [Podcasts](#podcasts)
-	- [Talks](#talks)
-	- [Videos](#videos)
-	- [Websites](#websites)
-	- [Weblogs](#weblogs)
 
 ## Standard Libraries
 *C++ Standard Library - including STL Containers, STL Algorithm, STL Functional, etc.*
